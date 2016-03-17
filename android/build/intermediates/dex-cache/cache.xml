@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.21.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ed5dc2d162c6a24aeaeb765bca63e2ee5171f8e">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-b58dcf38490312807f3e19532832da5425f2a54a.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-37d8ddd60793c18ea1e735c293dbe0e7751da3e2.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.auth0.android/core/1.12.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a3afb4b45e23108fe52515b34ce6666958e551df">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-e3053c044495a7dcbba6e8e30f23761ff4150294.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-8b051beae5aa40c35a6860295b90cdded2d030f4.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-95c63b64dc8153e4d2a0d59b4c37ca11d21ced3d.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.auth0.android/lock/1.12.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1562e380834ee5febe58ce959db05eb9aec602f0">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-c4f0dc114fccfe778753e4e414e27e4b092260a7.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-59d727f1dcd159f77d224eb45fed546ff49f53af.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-75b84a3dc05a7d75f659bb5c12af01c84c00a851.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-2445893429541725e09cfe5eed922586d6b630fa.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0af4f577b4a21eb9be2a7f52e33b077b67e6d9f8">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-5f926414a1fb04e89a724f636f78c63563c26069.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.hannesdorfmann.smoothprogressbar/library/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b0c4e77822421eb57e484df72ebb208b62df93e8">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-a03edc45b3cda628a5ef93ada99ecf458d69db41.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.auth0.android/identity-core/1.12.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f9d61f854796d71af98d41982694ab46d9ab923">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-9daade4a1cb942ce814bcf1583214fd30851fef8.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.5/7941cd2c2c8ec006800d75c35f8a9dacf892ab93/otto-1.3.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7941cd2c2c8ec006800d75c35f8a9dacf892ab93">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/otto-1.3.5-7da1e0e2d96cb91a70763ddda7e78eebab8faa03.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-133c7299783aa4ce480418fd5170663bb469e021.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-991ea64f4ae311cbe992b42d62208a7776c69493.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-d9e7ce8e0e45b1a4b8dba1cd7495b9c2f99087a3.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.auth0.android/lock-googleplus/2.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e6208705191c8a50d969acb9a0b889a299e3b0db">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-3ea1deeebc5c6bb925b6ff3d83e7bfe75ae7c26c.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-794088622ab2ed168da6dbb666221ed711873d29.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-87f5c5694be6360084fcf0d20f5abbfd37cf0281.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.1/b130bcfb5a9c410c3cbd2e0adec9437e69a39e2c/jackson-core-2.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b130bcfb5a9c410c3cbd2e0adec9437e69a39e2c">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.4.1-d4ccd8b55675ff1d5e20d122b7247feb8005b35e.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0-f22e454611ae224fbf5145d13ef23f4a0b8ed276.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/commons-cli-1.2-76174bd63a280a1d76ff4e8b144c7b8406d24cc5.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.1/55605135bd7b836612e0bba7037c9669f6ccf89f/jackson-annotations-2.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="55605135bd7b836612e0bba7037c9669f6ccf89f">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.4.1-57706821f72060fb3bd61355c142941743cba556.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.auth0.android/lock-passwordless/1.12.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c21f31a5a5ff8628268b19836e023129a586839">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-aeee908f812d76f901b1cfeecf74fc77f65feecb.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.auth0.android/lock-facebook/2.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="362ccd7850edc040c291dcbd30452cdb55861c69">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-5ca2e114fc1dbffca01a3096642b7887528d0aec.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.auth0.android/lock-react/0.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="671268eccc0c506e703a7ad11b448647f39085c2">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-4bec5f8259bac824c29ee19b75fc8941ede4257b.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-8c479f6f754175dbb4ce28cf5394b25eb0f78248.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-f6e571596b30914ec8d4518eed4484fa17326148.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-bdb5d06356ad95a537b872d06a7644df13bd1bc3.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.21.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="771892705d7958ec5a294a103a0e52e7f8d0bdc0">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-bbb7f30f6f6bf6871be440a65b11f5717be75f63.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-290d8d598611e43d3de63137cc8b99ac29d7ac4a.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-0c5561ee2485369e632880adb4f6151efb207d98.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-88cee7e3937421fafe317b5695770521e44b12d1.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.1/f07c773f7b3a03c3801d405cadbdc93f7548e321/jackson-databind-2.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f07c773f7b3a03c3801d405cadbdc93f7548e321">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/jackson-databind-2.4.1-9251603f16f137b88effb5cb888a71284a1da5a0.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/stetho-1.2.0-d7e0cba4d73e4b3256a050f085fd4c290ed66dc7.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/classes-53b5de6405a27b1fb7ca7e7da9b7c8236506bf00.jar" />
+    </item>
+    <item
+        jar="/Users/waynegoh/LockReactProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/waynegoh/LockReactProject/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-aad7f1ec5a6c2ccf1aa7b6cadf68626ef7e38f59.jar" />
+    </item>
+
+</items>

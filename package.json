@@ -1,0 +1,13 @@
+{
+  "name": "LockReactProject",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.21.0",
+    "react-native-lock-android": "0.0.3",
+    "react-native-lock-ios": "0.0.5"
+  }
+}
